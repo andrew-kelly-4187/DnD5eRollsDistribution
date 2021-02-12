@@ -22,7 +22,7 @@ mean_std = mean(std) # 12
 ## Generating an array of rolls
 ##---------------------------------------##
 
-ninter = 5000     # Number of iterations
+ninter = 1000000     # Number of iterations
 
 roll  = rep(0,6)       # Vector initialise
 sums  = rep(0,ninter)  # Vector initialise
